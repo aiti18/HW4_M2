@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW4_M2</string>
+    <string name="Введите_вашу_почту">Введите вашу почту</string>
+    <string name="Введите_пароль">Введите пароль</string>
+    <string name="Войти">Войти</string>
+
+</resources>
